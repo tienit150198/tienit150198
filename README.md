@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-A mobile developer (android, kotlin). Love to learn new technology and develop yourself.
+A mobile developer (android, kotlin, swift). Love to learn new technology and develop yourself.
   </samp>
   <br/>
   <br/>
